@@ -12,5 +12,3 @@ if qtd_caracteres < 6:
     print('O usuário precisa ter pelo menos 6 caracteres')
 else:
     print('Ok')
-
-
