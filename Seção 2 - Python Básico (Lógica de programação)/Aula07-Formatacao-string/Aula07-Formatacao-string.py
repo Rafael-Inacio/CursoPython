@@ -4,7 +4,7 @@ idade = 65
 altura = 1.986564
 gols = 15000
 
-print(nome, 'tem',altura, 'metros de altura,', idade, 'anos de idade e fez', gols, 'gols em toda sua carreira.\n')
+print(nome, 'tem', altura, 'metros de altura,', idade, 'anos de idade e fez', gols, 'gols em toda sua carreira.\n')
 print(f'{nome} tem {altura:.2f} metros de altura, {idade} anos de idade e fez {gols} gols em toda sua carreira\n')
 print('{} tem {:.2f} metros de altura, {} anos de idade e fez {} gols em toda sua carreira\n'.format(nome, altura, idade,
                                                                                                    gols))
