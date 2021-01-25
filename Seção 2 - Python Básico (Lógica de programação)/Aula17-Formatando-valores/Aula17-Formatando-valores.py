@@ -35,5 +35,6 @@ print()
 print(f'{nome:#^50}')
 
 nome_formatado = '{:@^50}'.format(nome)
+
 print()
 print(nome_formatado)
