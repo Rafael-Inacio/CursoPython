@@ -1,3 +1,3 @@
 # Curso de Python
 
-Curso de Python 3 do Básico Ao Avançado (com projetos reais) - Udemy
+Curso de Python 3 do canal Otávio Miranda
