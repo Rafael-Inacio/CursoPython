@@ -1,5 +1,5 @@
 
-palavra = 'Carnaval'
+palavra = 'Carregador'
 palavra_temp = ''
 letras_tentadas = []
 letras_tentadas_certas = []
