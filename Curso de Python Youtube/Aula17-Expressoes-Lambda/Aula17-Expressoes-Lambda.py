@@ -45,4 +45,3 @@ print(lista)
 # OU
 
 print(sorted(lista, key=lambda i: i[1], reverse=True))
-
