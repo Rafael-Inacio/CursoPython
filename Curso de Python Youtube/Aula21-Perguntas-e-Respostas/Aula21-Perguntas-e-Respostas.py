@@ -13,6 +13,16 @@ perguntas = {
         'alternativas': {'a': '1', 'b': '2', 'c': '5', 'd': '4'},
         'resposta_certa': 'c'
     },
+    'Pergunta 3': {
+        'pergunta': 'Quanto é 30*30?',
+        'alternativas': {'a': '9', 'b': '900', 'c': '9000', 'd': 'Não tem resposta'},
+        'resposta_certa': 'b'
+    },
+    'Pergunta 4': {
+        'pergunta': 'Você manja dos paranauê?',
+        'alternativas': {'a': 'sim', 'b': 'não', 'c': 'mais ou menos'},
+        'resposta_certa': 'b'
+    },
 }
 for perguntas_keys, perguntas_values in perguntas.items():
     print(perguntas_keys, perguntas_values['pergunta'], sep=': ')
