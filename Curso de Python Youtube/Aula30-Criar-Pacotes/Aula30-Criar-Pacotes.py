@@ -1,5 +1,8 @@
 """
 Exemplo um dódigo de uma loja virtual
+
+Tive que marcar as pastas "Aula30..." e "vendas" como "Source" para rodar o código, antes disso eu tinha erro de
+importação dos módulos
 """
 import vendas.calcula_preco
 
