@@ -11,7 +11,9 @@ def funcao2(msg):
     print(msg)
 
 # função com parâmetros padrões
-def saudacao(msg = 'Olá', nome = 'usuário'):
+
+
+def saudacao(msg='Olá', nome='usuário'):
     print(msg, nome)
 
 
