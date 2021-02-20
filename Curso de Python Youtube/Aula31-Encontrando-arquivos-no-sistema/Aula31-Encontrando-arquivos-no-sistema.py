@@ -25,7 +25,7 @@ def converte_tamanho(tamanho_bytes):
     return f'{tamanho_convertido} {prefixo}'.replace('.', ',')
 
 
-caminho_procura = 'C:\\Users\Rafae\Downloads'
+caminho_procura = r'C:\Users\Rafae\Downloads'
 termo_procura = input('Termo buscado: ').strip().lower()
 
 numero_arquivo = 1
