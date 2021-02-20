@@ -8,7 +8,7 @@ estáticos
 
 
 class Pessoa:
-    ano_atual = 2021
+    ano_atual = 2021  # Isto é um atributo de classe
 
     def __init__(self, nome, idade, comendo=False, falando=False):  # "Um método especial".
         self.nome = nome  # Essas variáveis estão disponíveis para todos os métodos dentro dessa classe
