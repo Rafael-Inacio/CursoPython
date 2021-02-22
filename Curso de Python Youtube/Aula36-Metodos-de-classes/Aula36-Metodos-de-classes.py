@@ -4,6 +4,8 @@ Quando usar métodos de classe e métodos de instância?
 Um método que "Fabrica o objeto"
 
 """
+
+
 class Pessoa:
     ano_atual = 2021  # Isto é um atributo de classe
 

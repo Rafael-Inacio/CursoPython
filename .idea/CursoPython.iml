@@ -4,6 +4,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Curso de Python Youtube/Aula30-Criar-Pacotes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Curso de Python Youtube/Aula30-Criar-Pacotes/vendas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Curso de Python Youtube/Aula41-Associacao/classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Curso de Python Youtube/Aula42-Agregacao/classes1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Curso de Python Youtube/Aula43-Composicao/classes2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Curso de Python Youtube/Aula44-Heranca-simples/classes3" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
