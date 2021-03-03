@@ -1,3 +1,4 @@
 
 def real(valor):
-    return f'R$ {valor:.2f}'.replace('.', ',')
+    valor = f'R$ {valor:.2f}'.replace('.', ',')
+    return valor

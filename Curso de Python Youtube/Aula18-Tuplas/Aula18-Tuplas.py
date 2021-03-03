@@ -16,6 +16,7 @@ print(t2, type(t2))
 print(t3, type(t3))
 print(t4)
 
+
 for valor in t1:
     print(valor)
 
