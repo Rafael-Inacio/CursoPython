@@ -8,3 +8,6 @@ while x <= 10:
         y += 1
     x += 1
 print('\nAcabou.')
+"""
+teste git pessoal
+"""
